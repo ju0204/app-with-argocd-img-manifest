@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: argode-img-container
-        image: juhee24/app-with-argocd-img:ad752d13e3f8b36f4d90b32055c2e59b1f3a7cc6b7714af5ffb639994b2e2d862349fc5bf304d148d47bc576dde8f69169514f51afd406775d00d7
+        image: juhee24/app-with-argocd-img:995b814aa33fa34cc1dd04294e4c9c9758302e65d752d13e3f8b36f4d90b32055c2e59b1f3a7cc6b7714af5ffb639994b2e2d862349fc5bf304d148d47bc576dde8f69169514f51afd406775d00d7
